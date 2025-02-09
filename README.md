@@ -8,4 +8,4 @@ For a greater elaboration of data control, with manipulations and interactions b
 # 2. Tic Tac Toe
 
 Project produced to increase my skills with matrices, creation and interaction between methods, use of whiles and boolean values. Systems such as switching between players and checking for a tie, victory or invalid command were built to bring interaction and loyalty to the program.
-(When open the version folders, access the "DESCRIPTION" file to understand the organization of each folder).
+(When open the version folders, access the "DESCRIPTION" file to understand the organization of each folder). 
